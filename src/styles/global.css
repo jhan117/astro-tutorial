@@ -63,6 +63,10 @@ a:focus {
 }
 
 @media screen and (min-width: 636px) {
+  .hamburger {
+    display: none;
+  }
+
   .nav-links {
     margin-left: 5em;
     display: block;
